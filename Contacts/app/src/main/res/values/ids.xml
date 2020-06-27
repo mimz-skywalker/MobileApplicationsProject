@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editName" type="id" />
+    <item name="editTel" type="id" />
+    <item name="editInfo" type="id" />
+    <item name="editCategory" type="id" />
+    <item name="btnInsert" type="id" />
+    <item name="simpleListView" type="id" />
+    <item name="textView" type="id" />
+    <item name="euName" type="id" />
+    <item name="euTel" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnDelete" type="id" />
+    <item name="euCategory" type="id" />
+    <item name="euEmail" type="id" />
+</resources>
